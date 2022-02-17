@@ -1,7 +1,7 @@
 import java.util.Random;
 
 public class Player {
-    String name = "Steven";
+    String name = "Steven";//placeholder
     int str = 2;
     int spd = 2;
     int con = 2;
